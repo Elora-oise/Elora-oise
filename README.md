@@ -69,17 +69,6 @@ I build and evaluate models for:
 
 **Financial Transaction Anomaly Detection**
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Elora-oise&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elora-oise&layout=compact&hide_border=true&theme=transparent" height="165"/>
-
-</div>
 
 ---
 
